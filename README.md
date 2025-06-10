@@ -1,4 +1,4 @@
-# Optitrack Workshop Template
+# Optitrack Workshop
 
 This is a Unity project template for using the Optitrack motion capture system in NTU CSIE Make Reality Space (學新館 R523). This guide provides comprehensive instructions for setting up and using the Optitrack system with Unity.
 
