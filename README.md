@@ -13,7 +13,6 @@ This is a Unity project template for using the Optitrack motion capture system i
 - [Tracking Objects](#tracking-objects)
 - [Unity Integration](#unity-integration)
 - [Troubleshooting](#troubleshooting)
-- [Additional Resources](#additional-resources)
 
 ## System Requirements
 
